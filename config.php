@@ -32,5 +32,7 @@ return [
         '#^_ignition#',
         '#^routes$#'
     ],
+    
+    'sorting' => false,
 
 ];
